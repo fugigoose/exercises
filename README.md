@@ -1,0 +1,2 @@
+# exercises
+Small code exercises
