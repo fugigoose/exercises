@@ -1,2 +1,1 @@
-# exercises
-Small code exercises
+A collection of small to medium code exercises written in a variety of languages.  Exercises are sorted by language, and each exercise has its own readme describing it.

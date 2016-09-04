@@ -1,4 +1,4 @@
-package org.fugigoose.linkedList;
+package org.fugigoose.exercises.linked_list;
 
 /**
  * Adds advanced functions to the base iterator for internal use by the List class

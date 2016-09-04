@@ -1,0 +1,1 @@
+An implementation of java.util.List using a singly-linked list.  Only the list iterator methods are left unimplemented, since their implementation using a singly-linked list would be inefficient.  There is no main execution point, but the unit test serves to exercise the implementation.

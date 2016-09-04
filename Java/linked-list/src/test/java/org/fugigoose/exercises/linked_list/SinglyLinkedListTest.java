@@ -1,4 +1,4 @@
-package org.fugigoose;
+package org.fugigoose.exercises.linked_list;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
@@ -12,8 +12,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import org.fugigoose.linkedList.SinglyLinkedList;
-import org.fugigoose.linkedList.SinglyLinkedListIterator;
+import org.fugigoose.exercises.linked_list.SinglyLinkedList;
+import org.fugigoose.exercises.linked_list.SinglyLinkedListIterator;
 import org.junit.Test;
 
 public class SinglyLinkedListTest

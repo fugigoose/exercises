@@ -1,0 +1,1 @@
+Demonstrates how to rotate a matrix by 90 degrees, or in this case a monochrome "image" made of colored TD elements.  Also demonstrates vanilla DOM manipulation (i.e. without a library like jQuery).

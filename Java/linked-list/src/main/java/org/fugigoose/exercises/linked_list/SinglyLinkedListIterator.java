@@ -1,4 +1,4 @@
-package org.fugigoose.linkedList;
+package org.fugigoose.exercises.linked_list;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

@@ -1,4 +1,4 @@
-package org.fugigoose.linkedList;
+package org.fugigoose.exercises.linked_list;
 
 public class SingleLinkNode<E>
 {
